@@ -16,12 +16,13 @@
 1. VMware 15
 2. Fedora 34 虚拟机两台
 
+
+/etc/hosts中添加两条记录
+
 ```
 192.168.30.150  tls-node1.test.com
 192.168.30.151  tls-node2.test.com
 ```
-
-
 
 ## 创建CA及服务端、客户端证书
 
